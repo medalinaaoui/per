@@ -1,0 +1,278 @@
+2023-01-13T17:43:53: PM2 log: ===============================================================================
+2023-01-13T17:43:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-01-13T17:43:53: PM2 log: Time                 : Fri Jan 13 2023 17:43:53 GMT+0000 (Coordinated Universal Time)
+2023-01-13T17:43:53: PM2 log: PM2 version          : 5.2.2
+2023-01-13T17:43:53: PM2 log: Node.js version      : 18.12.1
+2023-01-13T17:43:53: PM2 log: Current arch         : x64
+2023-01-13T17:43:53: PM2 log: PM2 home             : /root/.pm2
+2023-01-13T17:43:53: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2023-01-13T17:43:53: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2023-01-13T17:43:53: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2023-01-13T17:43:53: PM2 log: Application log path : /root/.pm2/logs
+2023-01-13T17:43:53: PM2 log: Worker Interval      : 30000
+2023-01-13T17:43:53: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2023-01-13T17:43:53: PM2 log: Concurrent actions   : 2
+2023-01-13T17:43:53: PM2 log: SIGTERM timeout      : 1600
+2023-01-13T17:43:53: PM2 log: ===============================================================================
+2023-01-13T18:54:26: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:26: PM2 log: App [server:0] online
+2023-01-13T18:54:26: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:26: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:26: PM2 log: App [server:0] online
+2023-01-13T18:54:27: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:27: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:27: PM2 log: App [server:0] online
+2023-01-13T18:54:28: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:28: PM2 log: App [server:0] online
+2023-01-13T18:54:28: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:28: PM2 log: App [server:0] online
+2023-01-13T18:54:29: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:29: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:29: PM2 log: App [server:0] online
+2023-01-13T18:54:29: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:29: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:29: PM2 log: App [server:0] online
+2023-01-13T18:54:30: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:30: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:30: PM2 log: App [server:0] online
+2023-01-13T18:54:31: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:31: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:31: PM2 log: App [server:0] online
+2023-01-13T18:54:31: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:31: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:31: PM2 log: App [server:0] online
+2023-01-13T18:54:32: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:32: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:32: PM2 log: App [server:0] online
+2023-01-13T18:54:32: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:32: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:32: PM2 log: App [server:0] online
+2023-01-13T18:54:33: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:33: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:33: PM2 log: App [server:0] online
+2023-01-13T18:54:33: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:33: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:33: PM2 log: App [server:0] online
+2023-01-13T18:54:34: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:34: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:34: PM2 log: App [server:0] online
+2023-01-13T18:54:35: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:35: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:35: PM2 log: App [server:0] online
+2023-01-13T18:54:35: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:35: PM2 log: Script /home/ubuntu/actions-runner/app/TelegramApi/TelegramApi/server.js had too many unstable restarts (16). Stopped. "errored"
+2023-01-13T18:54:49: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:49: PM2 log: App [server:0] online
+2023-01-13T18:54:50: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:50: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:50: PM2 log: App [server:0] online
+2023-01-13T18:54:51: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:51: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:51: PM2 log: App [server:0] online
+2023-01-13T18:54:51: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:51: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:51: PM2 log: App [server:0] online
+2023-01-13T18:54:52: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:52: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:52: PM2 log: App [server:0] online
+2023-01-13T18:54:53: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:53: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:53: PM2 log: App [server:0] online
+2023-01-13T18:54:53: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:53: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:53: PM2 log: App [server:0] online
+2023-01-13T18:54:54: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:54: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:54: PM2 log: App [server:0] online
+2023-01-13T18:54:55: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:55: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:55: PM2 log: App [server:0] online
+2023-01-13T18:54:55: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:55: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:55: PM2 log: App [server:0] online
+2023-01-13T18:54:56: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:56: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:56: PM2 log: App [server:0] online
+2023-01-13T18:54:56: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:56: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:56: PM2 log: App [server:0] online
+2023-01-13T18:54:57: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:57: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:57: PM2 log: App [server:0] online
+2023-01-13T18:54:58: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:58: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:58: PM2 log: App [server:0] online
+2023-01-13T18:54:58: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:58: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:58: PM2 log: App [server:0] online
+2023-01-13T18:54:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:59: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:59: PM2 log: App [server:0] online
+2023-01-13T18:54:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:54:59: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T18:54:59: PM2 log: App [server:0] online
+2023-01-13T18:55:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T18:55:00: PM2 log: Script /home/ubuntu/actions-runner/app/TelegramApi/TelegramApi/server.js had too many unstable restarts (16). Stopped. "errored"
+2023-01-13T19:55:26: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:26: PM2 log: App [server:0] online
+2023-01-13T19:55:28: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:28: PM2 log: App [server:0] online
+2023-01-13T19:55:28: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:28: PM2 log: App [server:0] online
+2023-01-13T19:55:29: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:29: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:29: PM2 log: App [server:0] online
+2023-01-13T19:55:29: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:29: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:29: PM2 log: App [server:0] online
+2023-01-13T19:55:30: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:30: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:30: PM2 log: App [server:0] online
+2023-01-13T19:55:31: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:31: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:31: PM2 log: App [server:0] online
+2023-01-13T19:55:31: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:31: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:31: PM2 log: App [server:0] online
+2023-01-13T19:55:32: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:32: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:32: PM2 log: App [server:0] online
+2023-01-13T19:55:32: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:32: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:32: PM2 log: App [server:0] online
+2023-01-13T19:55:33: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:33: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:33: PM2 log: App [server:0] online
+2023-01-13T19:55:34: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:34: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:34: PM2 log: App [server:0] online
+2023-01-13T19:55:34: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:34: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:34: PM2 log: App [server:0] online
+2023-01-13T19:55:35: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:35: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:35: PM2 log: App [server:0] online
+2023-01-13T19:55:35: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:35: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:35: PM2 log: App [server:0] online
+2023-01-13T19:55:36: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:36: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:36: PM2 log: App [server:0] online
+2023-01-13T19:55:37: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:37: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T19:55:37: PM2 log: App [server:0] online
+2023-01-13T19:55:37: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T19:55:37: PM2 log: Script /home/ubuntu/actions-runner/app/TelegramApi/TelegramApi/server.js had too many unstable restarts (16). Stopped. "errored"
+2023-01-13T20:00:17: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:17: PM2 log: App [server:0] online
+2023-01-13T20:00:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:17: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:17: PM2 log: App [server:0] online
+2023-01-13T20:00:18: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:18: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:18: PM2 log: App [server:0] online
+2023-01-13T20:00:19: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:19: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:19: PM2 log: App [server:0] online
+2023-01-13T20:00:19: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:19: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:19: PM2 log: App [server:0] online
+2023-01-13T20:00:20: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:20: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:20: PM2 log: App [server:0] online
+2023-01-13T20:00:20: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:20: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:20: PM2 log: App [server:0] online
+2023-01-13T20:00:21: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:21: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:21: PM2 log: App [server:0] online
+2023-01-13T20:00:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:22: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:22: PM2 log: App [server:0] online
+2023-01-13T20:00:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:22: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:22: PM2 log: App [server:0] online
+2023-01-13T20:00:23: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:23: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:23: PM2 log: App [server:0] online
+2023-01-13T20:00:24: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:24: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:24: PM2 log: App [server:0] online
+2023-01-13T20:00:24: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:24: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:24: PM2 log: App [server:0] online
+2023-01-13T20:00:25: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:25: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:25: PM2 log: App [server:0] online
+2023-01-13T20:00:26: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:26: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:26: PM2 log: App [server:0] online
+2023-01-13T20:00:26: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:26: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:00:26: PM2 log: App [server:0] online
+2023-01-13T20:00:27: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:00:27: PM2 log: Script /home/ubuntu/actions-runner/app/TelegramApi/TelegramApi/server.js had too many unstable restarts (16). Stopped. "errored"
+2023-01-13T20:00:55: PM2 log: Stopping app:server id:0
+2023-01-13T20:00:55: PM2 error: app=server id=0 does not have a pid
+2023-01-13T20:01:24: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:24: PM2 log: App [server:0] online
+2023-01-13T20:01:24: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:24: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:24: PM2 log: App [server:0] online
+2023-01-13T20:01:25: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:25: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:25: PM2 log: App [server:0] online
+2023-01-13T20:01:25: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:25: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:25: PM2 log: App [server:0] online
+2023-01-13T20:01:26: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:26: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:26: PM2 log: App [server:0] online
+2023-01-13T20:01:27: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:27: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:27: PM2 log: App [server:0] online
+2023-01-13T20:01:27: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:27: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:27: PM2 log: App [server:0] online
+2023-01-13T20:01:28: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:28: PM2 log: App [server:0] online
+2023-01-13T20:01:28: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:29: PM2 log: App [server:0] online
+2023-01-13T20:01:29: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:29: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:29: PM2 log: App [server:0] online
+2023-01-13T20:01:30: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:30: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:30: PM2 log: App [server:0] online
+2023-01-13T20:01:30: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:30: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:30: PM2 log: App [server:0] online
+2023-01-13T20:01:31: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:31: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:31: PM2 log: App [server:0] online
+2023-01-13T20:01:31: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:32: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:32: PM2 log: App [server:0] online
+2023-01-13T20:01:32: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:32: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:32: PM2 log: App [server:0] online
+2023-01-13T20:01:33: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:33: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:01:33: PM2 log: App [server:0] online
+2023-01-13T20:01:33: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2023-01-13T20:01:33: PM2 log: Script /home/ubuntu/actions-runner/app/TelegramApi/TelegramApi/server.js had too many unstable restarts (16). Stopped. "errored"
+2023-01-13T20:01:38: PM2 log: Stopping app:server id:0
+2023-01-13T20:01:38: PM2 error: app=server id=0 does not have a pid
+2023-01-13T20:03:28: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:03:28: PM2 log: App [server:0] online
+2023-01-13T20:05:28: PM2 log: Stopping app:server id:0
+2023-01-13T20:05:28: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2023-01-13T20:05:28: PM2 log: pid=7651 msg=process killed
+2023-01-13T20:06:53: PM2 log: App [server:0] starting in -fork mode-
+2023-01-13T20:06:53: PM2 log: App [server:0] online

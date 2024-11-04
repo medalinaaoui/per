@@ -1,0 +1,22 @@
+status: 200
+date: Fri, 13 Jan 2023 18:28:02 GMT
+server: gunicorn/19.8.1
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: dbb0e65afe3a4c62ee3f8f6b6ed6b1afa2685380
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: dbb0e65afe3a4c62ee3f8f6b6ed6b1afa2685380
+x-request-id: bdb86ea2-28ef-4f4e-98fe-3b5eea7486ac
+content-length: 1656
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~certbot/+archive/ubuntu/certbot?ws.op=getSigningKeyData
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+"-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: GnuPG v2\n\nmQINBFgZ3rMBEAC++XgX78AfLYt0i/1HyW3GxuVRb/yvWA5EmXOLhM0yVPczkRDe\nqM96iTtWDx0UzX1/AL9D6jFcZ+N4DL8oWVgK2V/ZYC/zrIXGEBWOHA5BnRisn5Xr\ndZVv1Lb1iZaoAkk6CgHTh53zYUqqAs6h2AgBfXQL7aUp6FIw2Oe0tUWORL18/iRG\nLZgcd0ChuMI0C83NRtAu7ksSZJdf/9f7aQuv1mevvaUswdxW4122WEJ4ZHD7qOhh\n5at+oQ52+Je0ugLp2jLRkCGWzxZBd1koJadprS+iBR0czegb9jYv+c5HvjztsEAp\n1k5aKjcNAD44yXksRINQw07bMrBto402qLx97bxo/oNzLnDNjckQaf74H2gCt4xJ\nnaTnufRGqy+NZeJ49Vi4ks3J1SG2kIQwH2D0uOye1NcWJcMWSFbn/PJQQUQa9sib\nXC07Q9we3QbxbYFmo0HmyY2BJi3D3Z6Kn8zY4CqZkVNTO75lBUDH3+DPNZToS5Fn\nX1q789IqodZnob9rUkd0/l4INAa5YCCFr1eUDO6Xv7xhG5Kymu33q5ROptrukAcB\nTEmWFmTxb4DsR0Pl40s7FVNTF8/KOgTxM4CX/Gi1MFvzhFuxOUXqR50rwvJvCYwJ\nOuar5b+0f1WiVRtXgPFFbhTpGu0fchJpxPyngIERBtw2tnumD3jA50SgCwARAQAB\ntBlMYXVuY2hwYWQgUFBBIGZvciBjZXJ0Ym90iQI4BBMBAgAiBQJYGd6zAhsDBgsJ\nCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRCMR76OdbymlNjLD/9VW6pIKKtFtrh/\n7xJoQYKTHp6UN3pjLZb6hbiPe+tPEjknyLwOmMVumbe5Vtfgv23VIWiby6+EyjXk\nsgTI1DZej2nTwg+X463r/WH8RVQ/oNnb09HdU86q955/jXDuFFmLQmYlac7FTT2f\nRrSBLq+6Ocf7Ww4wGAeFejKrnMdti9A+xcs4bjVGOWWyOV0rE1YRvsh7W0vty/CL\nShp2qBvQHighEK/K4nue6Ib/W+taRhYetHRrp2hgJdaIZXiaaO51F5IVkpAUDP9Q\nNuZGrcQlG/9Wcpg6aOmJv2MT7KMXNNpNtb/hcy7bOcBBJkABxjZlwQQ1id6E32OA\ndoMEuw+OeKA8CgWitVME+cuj5Sz7zEre/4kRgP6EIgQ8uWboDGHTTD7bPg1RMGCx\nHO33+RCDP2HwpQamErwoRXHHNu4eqh4QdGPIl1Eb1HfiI5vMSzayZXjw73OB124h\nZngTECncvJSoAWM9Vnu45xOgdEb6O3c0QSHuYiexOjKcN5OfNPyiMDRdyZ54BT0L\n+22eBjF/KYgW7t4NHuuqUuZPecG5/GKwcIBFs63n/AG7fbk0GhEFczQq3adKREpl\n7mKMeA0x7d3+ADEffZXQ15ByDQQDu28TBMRMM9b4/CN0kfWUP4skkG0oYUKR6CBT\nMH02CcBF3c+pR6ZREHnyoN2wqY8Qkw==\n=bXUY\n-----END PGP PUBLIC KEY BLOCK-----\n"

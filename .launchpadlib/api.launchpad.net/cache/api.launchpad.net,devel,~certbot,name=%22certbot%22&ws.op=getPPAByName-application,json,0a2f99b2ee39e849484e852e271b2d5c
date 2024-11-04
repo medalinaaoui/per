@@ -1,0 +1,22 @@
+status: 200
+date: Fri, 13 Jan 2023 18:27:58 GMT
+server: gunicorn/19.8.1
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: dbb0e65afe3a4c62ee3f8f6b6ed6b1afa2685380
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: dbb0e65afe3a4c62ee3f8f6b6ed6b1afa2685380
+x-request-id: 294583eb-31d6-43a1-b589-35d62a917eeb
+content-length: 1458
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~certbot?name=%22certbot%22&ws.op=getPPAByName
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+{"self_link": "https://api.launchpad.net/devel/~certbot/+archive/ubuntu/certbot", "web_link": "https://launchpad.net/~certbot/+archive/ubuntu/certbot", "resource_type_link": "https://api.launchpad.net/devel/#archive", "owner_link": "https://api.launchpad.net/devel/~certbot", "name": "certbot", "displayname": "Certbot PPA", "reference": "~certbot/ubuntu/certbot", "distribution_link": "https://api.launchpad.net/devel/ubuntu", "private": false, "suppress_subscription_notifications": false, "dependencies_collection_link": "https://api.launchpad.net/devel/~certbot/+archive/ubuntu/certbot/dependencies", "description": "The PPA has been DEPRECATED.\n\nTo get up to date instructions on how to get certbot for your systems, please see https://certbot.eff.org/docs/install.html.", "signing_key_fingerprint": "7BF576066ADA65728FC7E70A8C47BE8E75BCA694", "require_virtualized": true, "build_debug_symbols": true, "publish_debug_symbols": true, "permit_obsolete_series_uploads": false, "authorized_size": 2048, "status": "Active", "external_dependencies": null, "processors_collection_link": "https://api.launchpad.net/devel/~certbot/+archive/ubuntu/certbot/processors", "enabled_restricted_processors_collection_link": "https://api.launchpad.net/devel/~certbot/+archive/ubuntu/certbot/enabled_restricted_processors", "publish": true, "relative_build_score": 0, "http_etag": "\"2228607bf57aa8faffa5684e0f46944c8a6ba15f-20298a6e81e775c052739976ff89e768b722d54e\""}
